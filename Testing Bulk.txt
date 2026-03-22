@@ -1,0 +1,10 @@
+101, Espresso Beans 1kg, 12.50, 22.00, 40
+102, Whole Milk 1L, 0.80, 1.50, 100
+103, Brown Sugar 500g, 1.10, 2.30, 60
+104, Paper Cups (50ct), 3.00, 7.50, 25
+105, Chocolate Syrup, 4.20, 8.00, 15
+106, Bottled Water 500ml, 0.20, 1.00, 200
+107, Croissant (Frozen), 0.45, 1.80, 120
+108, Green Tea Box, 3.50, 6.50, 30
+109, Honey Jar 250g, 5.00, 9.50, 20
+110, Napkins (100ct), 1.00, 3.00, 50
