@@ -36,7 +36,8 @@ This prototype serves as the foundation for a full-scale commercial release. Fut
 ---
 
 ## 👨‍💻 Developed By
-**Bakr Amghar** *Student Engineer at EMSI (2nd Year)* Focused on developing high-security, scalable software for the Moroccan and International retail markets and loves computer science 😁
+**Bakr Amghar** *Student Engineer at EMSI (2nd Year)* Focused on developing high-security, scalable software for the Moroccan and International retail markets and loves computer science 😁.
+Also collaborated with my fellow classmate **Rayane Benlachhaab**, contributing to algorithm development, debugging, and fixing various software issues.
 
 ---
 
